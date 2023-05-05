@@ -30,6 +30,6 @@ Docker
 ----
 ### Languages:
 
-- English \- B2 (Intermediate)
+- English \- B2
 - Ukrainian \- Native
 - German \- A2
