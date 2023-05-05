@@ -1,4 +1,11 @@
 ### Python Developer
+----
+### Contact information
+* **Location:** Lviv, Ukraine<br>
+* **E-mail:** oksana.dushna.work@gmail.com<br>
+* **Telegram:** [@oksana_dushna](https://t.me/oksana_dushna/)<br>
+* **Linkedin:** [Oksana Dushna](https://www.linkedin.com/in/oksana-dushna-a52153273/)<br>
+* **Dou:** [Oksana Dushna](https://dou.ua/users/oksana-dushna/)<br>
 
 ### Briefly About Myself:
 With a background in attempting to computerize processes in my previous role, I have dedicated over a year to studying and practicing as a Python developer with a strong passion for innovation. I possess valuable skills in efficient workflow management and collaboration, which I gained through my previous experience.          
